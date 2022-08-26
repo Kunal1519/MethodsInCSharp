@@ -1,0 +1,3 @@
+# MethodsInCSharp
+In this project we have all types of methods like (partial method,out Method, Ref method, In method, Params Method)
+The Main is in program.cs file So we need to execute that file and all other file will be accessble through that...
